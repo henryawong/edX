@@ -1,2 +1,0 @@
-# edX
-edX Projects
